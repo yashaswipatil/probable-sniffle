@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as  Switch, Link } from 'react-router-dom';
-import logo from '../images/logo.svg';
+import logo from './logo.svg';
 
 function Navbar(){
     return (

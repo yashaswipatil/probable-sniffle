@@ -1,8 +1,8 @@
 import React from 'react';
-import tv from '../images/tv.png';
-import edu from '../images/edu.png';
-import cart from '../images/cart.png';
-import phone from '../images/phone.png';
+import tv from './tv.png';
+import edu from './edu.png';
+import cart from './cart.png';
+import phone from './phone.png';
 
 function Advertising(){
     return(

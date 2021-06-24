@@ -1,9 +1,9 @@
 import React from 'react';
-import logo from '../images/logo.svg'; 
-import gi from '../images/gi.png';
-import lf1 from '../images/lf1.svg';
-import lf2 from '../images/lf2.svg';
-import lf3 from '../images/lf3.svg';
+import logo from './logo.svg'; 
+import gi from './gi.png';
+import lf1 from './lf1.svg';
+import lf2 from './lf2.svg';
+import lf3 from './lf3.svg';
 
 function Footer(){
     return (

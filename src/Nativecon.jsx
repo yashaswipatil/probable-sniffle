@@ -1,9 +1,9 @@
 import React from 'react';
-import aws from '../images/aws.svg';
-import c from '../images/c.svg';
-import gd from '../images/gd.svg';
-import msp from '../images/msp.svg';
-import sn from '../images/sn.png';
+import aws from './aws.svg';
+import c from './c.svg';
+import gd from './gd.svg';
+import msp from './msp.svg';
+import sn from './sn.png';
 
 function Nativecon(){
     return (

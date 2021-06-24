@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../images/logo.svg';
+import logo from './logo.svg';
 import ReactPlayer from 'react-player';
 
 import { date } from 'joi';
